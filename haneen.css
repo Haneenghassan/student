@@ -1,0 +1,24 @@
+
+body{
+ margin: .5% 2%;
+    
+}
+
+#div1{
+    background-color: black;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    background: url(https://img.freepik.com/free-photo/black-background-with-smoke-spotlight_1048-11605.jpg?w=360) 50%/ cover
+}
+
+#photo{
+    width: 25%;
+    height: 30vh;
+}
+
+.text{    color: white;
+    mix-blend-mode: difference;
+    font: 900 9vmin/35vh cookie, cursive;
+   
+}
